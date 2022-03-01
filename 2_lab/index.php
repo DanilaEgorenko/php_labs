@@ -55,7 +55,7 @@
                 <label for="call_back">Перезвонить</label>
             </div>
 
-            <a href="/answers.php">Ответ</a>
+            <a href="/2_lab/answers.php">Ответ</a>
             <button type="submit">Отправить</button>
         </form>
     </main>
