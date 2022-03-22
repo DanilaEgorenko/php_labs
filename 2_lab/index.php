@@ -41,7 +41,7 @@
             <input type="text" name="name" id="name_id">
 
             <label for="email_id">Введите e-mail:</label>
-            <input type="email" name="name" id="email_id">
+            <input type="email" name="email" id="email_id">
 
             <textarea name="" id="" cols="30" rows="10" placeholder="Текст обращения"></textarea>
 
